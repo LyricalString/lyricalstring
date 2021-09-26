@@ -5,7 +5,8 @@
 - JavaScript
 
 ### 👑 Proyectos:
-- Node *(Discord Bot)* - [Discord](discord.gg/nodebot) | [Invitación](invite.nodebot.xyz)
+- Node *(Discord Bot)* - [Proyecto GitHub](https://github.com/LyricalString/Node-Discord-Bot)
+- Curso Bots Discord *(Open Source)* - [Proyecto GitHub](https://github.com/LyricalString/Modelo-Discord-Bot)
 
 <br>
 <a href="https://github.com/LyricalString">
